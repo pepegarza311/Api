@@ -1,4 +1,4 @@
-let contadorPokemonId = 100;
+let contadorPokemonId = 1;
 
 const getData = async (pokemonId) => {
   try {
